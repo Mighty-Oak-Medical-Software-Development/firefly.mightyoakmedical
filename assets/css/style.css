@@ -6241,4 +6241,16 @@ and (max-width: 2560px) {
     height: auto;
   }
 
+  #psg-hero-3 .downloads-class .product-brochure {
+    padding: 0px 0px 0px 5%;
+    width: auto;
+    height: auto;
+  }
+
+  #psg-hero-3 .downloads-class .ct-scan-protocal {
+    padding: 0px 0px 0px 7%;
+    width: auto;
+    height: auto;
+  }
+
 }
