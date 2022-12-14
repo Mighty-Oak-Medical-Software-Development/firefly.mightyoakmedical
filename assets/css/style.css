@@ -1217,14 +1217,6 @@ h6 {
   font-size: 24px;
 }
 
-/*Features and Benefits Subtitle*/
-#psg-hero-2 .psg-hero-container-2-tech .feat-bene h2{
-  color: #eee;
-  padding: 75px 0px 0px 160px;
-  margin: 0;
-  font-size: 24px;
-}
-
 #psg-hero-2 .psg-hero-container-2-tech h3{
   color: #eee;
   padding: 19px 0px 39px 31px;
@@ -1232,6 +1224,14 @@ h6 {
   font-size: 14px;
   width: 60%;
   display: inline-block;
+}
+
+/*Features and Benefits Subtitle*/
+#psg-hero-2 .psg-hero-container-2-tech .feat-bene h2{
+  color: #eee;
+  padding: 75px 0px 0px 160px;
+  margin: 0;
+  font-size: 24px;
 }
 
 #psg-hero-2 .psg-hero-container-2-tech .bone-section4-h2 {
@@ -6021,6 +6021,218 @@ and (max-width: 1023) {
     position: relative;
     right: 95%;
     width: 435%;
+  }
+}
+
+/*--------------------------------------------------------------
+# Larger monitor screen sizes
+--------------------------------------------------------------*/
+/*big monitor to 4k*/
+@media screen and (min-width: 1500px) 
+and (max-width: 2560px) {
+  #psg-hero-6 .psg-hero-container h1 {
+    color: #eee;
+    padding-top: 6%;
+    padding-left: 44%;
+    display: block;
+    width: 100%;
+    height: 5px;
+    left: 0px;
+    font-family: nulshock;
+    font-size: 40px;
+    position: absolute;
+  }
+  
+    /*Firefly*/
+  .vl {
+    font-size: 113%;
+    text-transform: uppercase;
+    color: #8AC53C;
+    padding: 0 0 0 9%;
+  }
+  
+    /*PSG*/
+  .vl-1 {
+    font-size: 113%;
+    text-transform: uppercase;
+    color: #8AC53C;
+    padding: 0 0 0 22%;
+  }
+  
+    /*MNG*/
+  .vl-2 {
+    font-size: 113%;
+    text-transform: uppercase;
+    color: #8AC53C;
+    padding: 0 0 0 33%;
+  }
+  
+  /*CNG*/
+  .vl-3 {
+   font-size: 113%;
+   text-transform: uppercase;
+   color: #8AC53C;
+   padding: 0 0 0 47%;
+  }
+
+  /*Vertical line on left hand side*/
+  .vl-4 {
+    border-left: 4px solid #8AC53C;
+    height: 4000px;
+    position: absolute;
+    left: 50%;
+    margin-left: -45%;
+    margin-top: 303px;
+  }
+
+  .fre-pam {
+    padding: 0 0 0 10%;
+  }
+
+  .psg-pam {
+    padding: 0 0 0 23%;
+  }
+
+  .mng-pam {
+    padding: 0 0 0 34%;
+  }
+
+  .cng-pam {
+    padding: 0 0 0 48%;
+  }
+
+  #psg-hero .psg-hero-container-subheading h1 {
+    color: #eee;
+    padding-top: 7.5%;
+    padding-left: 11.5%;
+    margin: 0;
+    font-size: 354%;
+    font-family: nulshock;
+    float: left;
+  }
+
+  #psg-hero .psg-hero-container h2{
+    color: #eee;
+    padding-top: 11%;
+    padding-left: 11.6%;
+    margin: 0;
+    font-size: 252%;
+  }
+  
+  #psg-hero .psg-hero-container h3{
+    color: #eee;
+    padding-top: 30px;
+    margin: 0 0% 0 11.5%;
+    font-size: 151%;
+    line-height: 75px;
+    width: 64%;
+    display: block;
+  }
+
+  #psg-hero .img-tech-page {
+    float: left;
+    z-index: -10;
+    position: relative;
+    top: -461px;
+    right: 376px;
+    width: 130%;
+    height: 190%
+  }
+  
+  #psg-hero-2 .psg-hero-container-subheading h1 {
+    color: #eee;
+    padding-top: 1%;
+    padding-left: 12%;
+    margin: 0;
+    font-size: 353%;
+    font-family: nulshock;
+    float: left;
+  }
+
+  /*Features and Benefits Subtitle*/
+  #psg-hero-2 .psg-hero-container-2-tech .feat-bene h2{
+    color: #eee;
+    padding: 4% 0px 0px 12%;
+    margin: 0;
+    font-size: 235%;
+  }
+
+  #psg-hero-2 .bone-fix-class .bone-fixation-tech {
+    float: left;
+    margin: -2% 0px 0px 12%;
+    width: 11%;
+    height: 100%;
+  }
+
+  #psg-hero-2 .small-fp-class .small-footprint {
+    float: left;
+    margin: -2% 0px 0px 12%;
+    width: 11%;
+    height: 100%;
+  }
+  
+  #psg-hero-2 .adj-class .adjacent-segment {
+    float: left;
+    margin: -2% 0px 0px 12%;
+    width: 11%;
+    height: 100%;
+  }
+  
+  #psg-hero-2 .image-turnstile-psg {
+    float: left;
+    z-index: -10;
+    position: relative;
+    margin: -533px 0px 0px 160px;
+    width: auto;
+    height: auto;
+  }  
+
+  #psg-hero-2 .psg-hero-container-2-tech h2{
+    color: #8AC53C;
+    padding: 6% 0px 0px 24.5%;
+    margin: 0;
+    font-size: 24px;
+  }
+  
+  #psg-hero-2 .psg-hero-container-2-tech h3{
+    color: #eee;
+    padding: 1% 0px 39px 31px;
+    margin: 0 auto 0 15px;
+    font-size: 169%;
+    width: 60%;
+    display: inline-block;
+  }
+
+  #psg-hero-2 .psg-hero-container-2-tech .bone-section4-h2 {
+    color: #8AC53C;
+    padding: 2% 0px 17px 11.3%;
+    margin: 0 auto 0 15px;
+    font-size: 295%;
+    width: 60%;
+    display: inline-block;
+  }
+  
+  #psg-hero-2 .psg-hero-container-2-tech .bone-section4-h3 {
+    color: #eee;
+    padding: 1% 8% 0px 12%;
+    margin: 0;
+    font-size: 170%;
+  }
+  
+  #psg-hero-2 .psg-hero-container-2-tech h4{
+    color: rgba(23, 29, 34, 0.7);
+    float: left;
+    margin: .5% 0 0 12%;
+    width: 34%;
+    height: 100%;
+    font-size: 95%;
+  }
+
+  #psg-hero-2 .image-turnstile-tech {
+    float: left;
+    margin: -39% 0px 0px 56%;
+    width: 38%;
+    height: 100%;
   }
 
 }
