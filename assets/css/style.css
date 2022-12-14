@@ -6103,7 +6103,7 @@ and (max-width: 2560px) {
 
   #psg-hero .psg-hero-container-subheading h1 {
     color: #eee;
-    padding-top: 7.5%;
+    padding-top: 10.5%;
     padding-left: 11.5%;
     margin: 0;
     font-size: 354%;
@@ -6113,18 +6113,18 @@ and (max-width: 2560px) {
 
   #psg-hero .psg-hero-container h2{
     color: #eee;
-    padding-top: 11%;
+    padding-top: 15%;
     padding-left: 11.6%;
     margin: 0;
-    font-size: 252%;
+    font-size: 217%;
   }
   
   #psg-hero .psg-hero-container h3{
     color: #eee;
     padding-top: 30px;
     margin: 0 0% 0 11.5%;
-    font-size: 151%;
-    line-height: 75px;
+    font-size: 106%;
+    line-height: 236%;
     width: 64%;
     display: block;
   }
@@ -6133,7 +6133,7 @@ and (max-width: 2560px) {
     float: left;
     z-index: -10;
     position: relative;
-    top: -461px;
+    top: -427px;
     right: 376px;
     width: 130%;
     height: 190%
@@ -6152,7 +6152,7 @@ and (max-width: 2560px) {
   /*Features and Benefits Subtitle*/
   #psg-hero-2 .psg-hero-container-2-tech .feat-bene h2{
     color: #eee;
-    padding: 4% 0px 0px 12%;
+    padding: 6% 0px 0px 12%;
     margin: 0;
     font-size: 235%;
   }
@@ -6189,7 +6189,7 @@ and (max-width: 2560px) {
 
   #psg-hero-2 .psg-hero-container-2-tech h2{
     color: #8AC53C;
-    padding: 6% 0px 0px 24.5%;
+    padding: 5% 0px 0px 24.5%;
     margin: 0;
     font-size: 24px;
   }
@@ -6198,7 +6198,7 @@ and (max-width: 2560px) {
     color: #eee;
     padding: 1% 0px 39px 31px;
     margin: 0 auto 0 15px;
-    font-size: 169%;
+    font-size: 115%;
     width: 60%;
     display: inline-block;
   }
@@ -6207,7 +6207,7 @@ and (max-width: 2560px) {
     color: #8AC53C;
     padding: 2% 0px 17px 11.3%;
     margin: 0 auto 0 15px;
-    font-size: 295%;
+    font-size: 200%;
     width: 60%;
     display: inline-block;
   }
@@ -6216,7 +6216,7 @@ and (max-width: 2560px) {
     color: #eee;
     padding: 1% 8% 0px 12%;
     margin: 0;
-    font-size: 170%;
+    font-size: 87%;
   }
   
   #psg-hero-2 .psg-hero-container-2-tech h4{
@@ -6225,14 +6225,20 @@ and (max-width: 2560px) {
     margin: .5% 0 0 12%;
     width: 34%;
     height: 100%;
-    font-size: 95%;
+    font-size: 55%;
   }
 
   #psg-hero-2 .image-turnstile-tech {
     float: left;
-    margin: -39% 0px 0px 56%;
+    margin: -30% 0px 0px 56%;
     width: 38%;
     height: 100%;
+  }
+
+  #psg-hero-3 .downloads-class .system-brochure {
+    padding: 0px 0px 0px 29%;
+    width: auto;
+    height: auto;
   }
 
 }
