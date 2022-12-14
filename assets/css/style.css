@@ -6157,14 +6157,15 @@ and (max-width: 2560px) {
     font-size: 235%;
   }
 
-  #psg-hero-2 .bone-fix-class .bone-fixation-tech {
-    float: left;
-    margin: -2% 0px 0px 12%;
-    width: 11%;
-    height: 100%;
+    /*Features and Benefits Subtitle*/
+    #psg-hero-2 .psg-hero-container-2 .feat-bene h2{
+    color: #eee;
+    padding: 5% 0px 0px 12%;
+    margin: 0;
+    font-size: 24px;
   }
 
-  #psg-hero-2 .small-fp-class .small-footprint {
+  #psg-hero-2 .bone-fix-class .bone-fixation-tech {
     float: left;
     margin: -2% 0px 0px 12%;
     width: 11%;
@@ -6173,16 +6174,16 @@ and (max-width: 2560px) {
   
   #psg-hero-2 .adj-class .adjacent-segment {
     float: left;
-    margin: -2% 0px 0px 12%;
-    width: 11%;
-    height: 100%;
+    margin: -2% 0px 0px 13%;
+    width: auto;
+    height: auto;
   }
   
   #psg-hero-2 .image-turnstile-psg {
     float: left;
     z-index: -10;
     position: relative;
-    margin: -533px 0px 0px 160px;
+    margin: -33% 0px 0px 27%;
     width: auto;
     height: auto;
   }  
@@ -6251,6 +6252,61 @@ and (max-width: 2560px) {
     padding: 0px 0px 0px 7%;
     width: auto;
     height: auto;
+  }
+
+  #psg-hero-2 .bone-fix-class .bone-fixation-psg {
+    float: left;
+    margin: -2% 0px 0px 13%;
+    width: auto;
+    height: auto;
+  }
+
+  /*S2-AI Second Page Change*/
+  #psg-hero-2 .psg-hero-container-2 .bone-fix-class h2{
+  color: #8AC53C;
+  padding: 3% 0px 0px 23%;
+  margin: 0;
+  font-size: 24px;
+  }
+
+  #psg-hero-2 .small-fp-class .small-footprint {
+    float: left;
+    margin: -2% 0px 0px 13%;
+    width: auto;
+    height: auto;
+  }
+
+  #psg-hero-2 .psg-hero-container-2 h2{
+    color: #8AC53C;
+    padding: 6% 0px 0px 23%;
+    margin: 0;
+    font-size: 24px;
+  }
+
+  #psg-hero-2 .psg-hero-container-2 .bone-h3 {
+    color: #eee;
+    padding: 19px 332px 39px 32px;
+    margin: 0 auto 0 15px;
+    font-size: 105%;
+    width: 61%;
+    display: inline-block;
+  }
+
+  /*S2-AI Second Page Change*/
+  #psg-hero-2 .psg-hero-container-2 .adj-class h2{
+    color: #8AC53C;
+    padding: 6% 0px 0px 23%;
+    margin: 0;
+    font-size: 24px;
+  }
+
+  #psg-hero-2 .psg-hero-container-2 h3{
+    color: #eee;
+    padding: 19px 340px 39px 31px;
+    margin: 0 auto 0 15px;
+    font-size: 105%;
+    width: 60%;
+    display: inline-block;
   }
 
 }
