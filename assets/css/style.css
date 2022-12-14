@@ -6032,8 +6032,8 @@ and (max-width: 1023) {
 and (max-width: 2560px) {
   #psg-hero-6 .psg-hero-container h1 {
     color: #eee;
-    padding-top: 6%;
-    padding-left: 44%;
+    padding-top: 8%;
+    padding-left: 40%;
     display: block;
     width: 100%;
     height: 5px;
@@ -6048,7 +6048,7 @@ and (max-width: 2560px) {
     font-size: 113%;
     text-transform: uppercase;
     color: #8AC53C;
-    padding: 0 0 0 9%;
+    padding: 0 0 0 8%;
   }
   
     /*PSG*/
@@ -6056,7 +6056,7 @@ and (max-width: 2560px) {
     font-size: 113%;
     text-transform: uppercase;
     color: #8AC53C;
-    padding: 0 0 0 22%;
+    padding: 0 0 0 15%;
   }
   
     /*MNG*/
@@ -6064,7 +6064,7 @@ and (max-width: 2560px) {
     font-size: 113%;
     text-transform: uppercase;
     color: #8AC53C;
-    padding: 0 0 0 33%;
+    padding: 0 0 0 20%;
   }
   
   /*CNG*/
@@ -6072,7 +6072,7 @@ and (max-width: 2560px) {
    font-size: 113%;
    text-transform: uppercase;
    color: #8AC53C;
-   padding: 0 0 0 47%;
+   padding: 0 0 0 34%;
   }
 
   /*Vertical line on left hand side*/
@@ -6086,19 +6086,19 @@ and (max-width: 2560px) {
   }
 
   .fre-pam {
-    padding: 0 0 0 10%;
+    padding: 0 0 0 8%;
   }
 
   .psg-pam {
-    padding: 0 0 0 23%;
+    padding: 0 0 0 17%;
   }
 
   .mng-pam {
-    padding: 0 0 0 34%;
+    padding: 0 0 0 21%;
   }
 
   .cng-pam {
-    padding: 0 0 0 48%;
+    padding: 0 0 0 35%;
   }
 
   #psg-hero .psg-hero-container-subheading h1 {
