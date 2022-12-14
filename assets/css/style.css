@@ -6028,7 +6028,7 @@ and (max-width: 1023) {
 # Larger monitor screen sizes
 --------------------------------------------------------------*/
 /*big monitor to 4k*/
-@media screen and (min-width: 1500px) 
+@media screen and (min-width: 1540px) 
 and (max-width: 2560px) {
   #psg-hero-6 .psg-hero-container h1 {
     color: #eee;
@@ -6309,4 +6309,162 @@ and (max-width: 2560px) {
     display: inline-block;
   }
 
+  #psg-hero-2 .image-turnstile-mng {
+    float: left;
+    margin: -41% 0px 0px 64%;
+    width: 40%;
+    height: 100%;
+  }
+
+  #psg-hero-2 .bone-fix-class .bone-fixation-mng {
+    float: left;
+    margin: -1% 0px 0px 13%;
+    width: auto;
+    height: auto;
+  }  
+
+  #psg-hero .img-mng {
+    float: left;
+    z-index: -10;
+    position: relative;
+    top: -193px;
+    width: auto;
+    height: auto;
+  }
+
+  #psg-hero .img-cng {
+    float: left;
+    z-index: -10;
+    position: relative;
+    top: -330px;
+    right: 14%;
+    width: auto;
+    height: auto
+  }
+  
+  #psg-hero-2 .image-turnstile-cng {
+    float: left;
+    margin: -835px 0px 0px 630px;
+    width: auto;
+    height: auto;
+  }
+
+  #psg-hero-2 .bone-fix-class .bone-fixation-cng {
+    float: left;
+    margin: -41px 0px 0px 13%;
+    width: auto;
+    height: auto;
+  }
+
+  #psg-hero .img-s2ai {
+    float: left;
+    position: relative;
+    top: -197px;
+    right: -17px;
+    width: auto;
+    height: auto
+  }
+
+  #psg-hero-2 .image-turnstile-s2ai {
+    float: left;
+    margin: -1068px 0px 0px 38%;
+    width: auto;
+    height: auto;
+  }
+
+  #psg-hero-2 .bone-fix-class .bone-fixation-s2-ai {
+    float: left;
+    margin: -41px 0px 0px 13%;
+    width: auto;
+    height: auto;
+  }
+
+  #psg-hero .img-bone-mdl {
+    float: left;
+    z-index: -10;
+    position: relative;
+    top: -188px;
+    right: -20px;
+    width: auto;
+    height: auto
+  }
+
+  #psg-hero-2 .image-turnstile-bone {
+    float: left;
+    margin: -708px 0px 0px 30%;
+    width: auto;
+    height: auto;
+  }
+
+  /*Bone Model Second Page Change*/
+#psg-hero-2 .psg-hero-container-2 .bone-mdl-class h2{
+  color: #8AC53C;
+  padding: 4% 0px 0px 12%;
+  margin: 0;
+  font-size: 24px;
+}
+
+/*Bone Model Second Page Change*/
+#psg-hero-2 .psg-hero-container-2 .auto-clav-class h2{
+  color: #8AC53C;
+  padding: 4% 0px 0px 12%;
+  margin: 0;
+  font-size: 24px;
+}
+
+/*Bone Model Second Page Change*/
+#psg-hero-2 .psg-hero-container-2 .mat-comp-class h2{
+  color: #8AC53C;
+  padding: 4% 0px 0px 12%;
+  margin: 0;
+  font-size: 24px;
+}
+
+/*Bone Model Second Page Change*/
+#psg-hero-2 .psg-hero-container-2 .bone-mdl-class h3 {
+  color: #eee;
+  padding: 2% 0px 0px 11%;
+  margin: 0 auto 0 15px;
+  font-size: 14px;
+  width: 60%;
+  display: inline-block;
+}
+
+/*Bone Model Second Page Change*/
+#psg-hero-2 .psg-hero-container-2 .auto-clav-class h3 {
+  color: #eee;
+  padding: 2% 0px 0px 11%;
+  margin: 0 auto 0 15px;
+  font-size: 14px;
+  width: 60%;
+  display: inline-block;
+}
+
+/*Bone Model Second Page Change*/
+#psg-hero-2 .psg-hero-container-2 .mat-comp-class h3 {
+  color: #eee;
+  padding: 2% 0px 0px 11%;
+  margin: 0 auto 0 15px;
+  font-size: 14px;
+  width: 60%;
+  display: inline-block;
+}
+
+#psg-hero-2 .psg-hero-container-2 h3{
+  color: #eee;
+  padding: 19px 340px 39px 31px;
+  margin: 0 auto 0 15px;
+  font-size: 14px;
+  width: 60%;
+  display: inline-block;
+}
+
+#psg-hero-2 .psg-hero-container-2 .bone-h3 {
+  color: #eee;
+  padding: 19px 332px 39px 32px;
+  margin: 0 auto 0 15px;
+  font-size: 14px;
+  width: 60%;
+  display: inline-block;
+}
 }
