@@ -5112,7 +5112,7 @@ and (max-width: 1023) {
     padding-top: 26%;
     padding-left: 11.5%;
     margin: 0;
-    font-size: 133%;
+    font-size: 110%;
     font-family: nulshock;
     float: left;
   }
@@ -5141,18 +5141,18 @@ and (max-width: 1023) {
 
   #psg-hero .psg-hero-container h2{
     color: #eee;
-    padding-top: 41%;
+    padding-top: 46%;
     padding-left: 11.5%;
     margin: 0;
-    font-size: 110%;
+    font-size: 105%;
   }
   
   #psg-hero .psg-hero-container h3{
     color: #eee;
     padding-top: 2%;
     margin: 0 -10% 0 11.5%;
-    font-size: 70%;
-    line-height: 334%;
+    font-size: 87%;
+    line-height: 232%;
     width: 82%;
     display: block;
   }
@@ -5161,7 +5161,7 @@ and (max-width: 1023) {
     float: left;
     z-index: -10;
     position: relative;
-    padding: 31% 0% 0% 0%;
+    padding: 45% 0% 0% 0%;
     width: 150%;
     height: 100%;
   }
@@ -5169,10 +5169,10 @@ and (max-width: 1023) {
   /*2nd Page Hero*/
   #psg-hero-2 .psg-hero-container-subheading h1 {
     color: #eee;
-    padding-top: 7%;
+    padding-top: 6%;
     padding-left: 11.5%;
     margin: 0;
-    font-size: 133%;
+    font-size: 108%;
     font-family: nulshock;
     width: auto;
     height: auto;
@@ -5209,7 +5209,7 @@ and (max-width: 1023) {
     padding: 1% 0% 0% 12%;
     margin: 0% 0% 0% 0%;
     font-size: 71%;
-    width: 60%;
+    width: 71%;
     display: inline-block;
   }
 
@@ -5231,7 +5231,7 @@ and (max-width: 1023) {
 
   #psg-hero-2 .psg-hero-container-2 .small-fp-class .small-h2 {
     color: #8AC53C;
-    padding: 4% 0% 0% 11.5%;
+    padding: 7% 0% 0% 11.5%;
     margin: 0;
     font-size: 85%;
   }
@@ -5241,11 +5241,12 @@ and (max-width: 1023) {
     padding: 1% 0% 0% 12%;
     margin: 0;
     font-size: 71%;
+    width: 75%;
   }
 
   #psg-hero-2 .psg-hero-container-2 .adj-class .adj-h2 {
     color: #8AC53C;
-    padding: 4% 0% 0% 11.5%;
+    padding: 7% 0% 0% 11.5%;
     margin: 0;
     font-size: 85%;
   }
@@ -5255,6 +5256,7 @@ and (max-width: 1023) {
     padding: 4% 0% 0% 11.5%;
     margin: 0;
     font-size: 71%;
+    width: 77%;
   }
 
   #psg-hero-2 .bone-fix-class .bone-fixation-cng {
@@ -5309,7 +5311,7 @@ and (max-width: 1023) {
   /*Related Products Text*/
   #psg-hero-3 .psg-hero-container-subheading-3 .products-txt {
     float: left;
-    margin: 0% 0% 0% -48%;
+    margin: 0% 0% 0% -63%;
     width: auto;
     height: auto;
     font-size: 130%;
@@ -5323,7 +5325,7 @@ and (max-width: 1023) {
   }
 
   #psg-hero-3 .re-products-class .firefly-tech-h3 {
-    padding: 20% 16% 0% 1%;
+    padding: 27% 16% 0% 1%;
     font-size: 14px;
     width: auto;
     height: auto;
@@ -5363,7 +5365,7 @@ and (max-width: 1023) {
   /*Downloads Text*/
   #psg-hero-3 .psg-hero-container-subheading-3 .downloads-txt {
     float: left;
-    margin: -4% 0% 0% -48%;
+    margin: -4% 0% 0% -63%;
     width: auto;
     height: auto;
     font-size: 130%;
@@ -5377,7 +5379,7 @@ and (max-width: 1023) {
   }
   
   #psg-hero-3 .downloads-class .system-brochure-h3 {
-    padding: 13% 0% 0% 1%;
+    padding: 16% 0% 0% 1%;
     font-size: 14px;
     width: auto;
     height: auto;
@@ -5420,7 +5422,7 @@ and (max-width: 1023) {
     float: left;
     z-index: -10;
     position: relative;
-    padding: 41% 0% 0% 0%;
+    padding: 52% 0% 0% 0%;
     width: 150%;
     height: 100%;
   }
@@ -5480,7 +5482,7 @@ and (max-width: 1023) {
     position: absolute;
   }
 
-  #psg-hero .psg-hero-container-subheading:before {
+  #psg-hero .psg-hero-container-services:before {
     content: "";
     display: block;
     width: 100%;
@@ -5576,7 +5578,7 @@ and (max-width: 1023) {
   /*Bone Model Second Page Change*/
   #psg-hero-2 .psg-hero-container-2 .mat-comp-class h2{
     color: #8AC53C;
-    padding: 8% 0px 0px 11.5%;
+    padding: 3% 0px 0px 11.5%;
     margin: 0;
     font-size: 100%;
   }
@@ -5641,7 +5643,7 @@ and (max-width: 1023) {
     color: #eee;
     padding: 2% 0% 4% 3%;
     margin: 0 auto 0 9.5%;
-    font-size: 91%;
+    font-size: 83%;
     width: 88%;
     display: inline-block;
   }
@@ -5650,8 +5652,8 @@ and (max-width: 1023) {
     float: left;
     z-index: -10;
     position: relative;
-    top: -29px;
-    right: 16%;
+    top: -94px;
+    right: 28%;
     width: 142%;
     height: 1%
   }
@@ -5669,7 +5671,7 @@ and (max-width: 1023) {
     color: #eee;
     padding: 0% 0 0% 11.5%;
     margin: 0;
-    font-size: 73%;
+    font-size: 72%;
   }
 
   #psg-hero-2 .psg-hero-container-2-tech h4{
@@ -5686,7 +5688,8 @@ and (max-width: 1023) {
     color:#8AC53C;
     padding: 14% 0px 0px 11.5%;
     margin: 0;
-    font-size: 130%;
+    font-size: 80%;
+    width: 60%;
   }
 
   #psg-hero-5 .psg-hero-container-subheading h1 {
@@ -5801,15 +5804,15 @@ and (max-width: 1023) {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-top: -2%;
-    width: 47.5%;
+    margin-top: 7%;
+    width: 59.5%;
   }
   
   #psg-hero-8 .image-turnstile-tech-7 {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 47.5%;
+    width: 59.5%;
   }
 
   #psg-hero-6 .psg-hero-container h1 {
@@ -7369,76 +7372,75 @@ and (max-width: 2560px) {
     height: auto;
   }
 
+    /*Bone Model Second Page Change*/
+  #psg-hero-2 .psg-hero-container-2 .bone-mdl-class h2{
+    color: #8AC53C;
+    padding: 4% 0px 0px 12%;
+    margin: 0;
+    font-size: 24px;
+  }
+
   /*Bone Model Second Page Change*/
-#psg-hero-2 .psg-hero-container-2 .bone-mdl-class h2{
-  color: #8AC53C;
-  padding: 4% 0px 0px 12%;
-  margin: 0;
-  font-size: 24px;
-}
+  #psg-hero-2 .psg-hero-container-2 .auto-clav-class h2{
+    color: #8AC53C;
+    padding: 4% 0px 0px 12%;
+    margin: 0;
+    font-size: 24px;
+  }
 
-/*Bone Model Second Page Change*/
-#psg-hero-2 .psg-hero-container-2 .auto-clav-class h2{
-  color: #8AC53C;
-  padding: 4% 0px 0px 12%;
-  margin: 0;
-  font-size: 24px;
-}
+  /*Bone Model Second Page Change*/
+  #psg-hero-2 .psg-hero-container-2 .mat-comp-class h2{
+    color: #8AC53C;
+    padding: 4% 0px 0px 12%;
+    margin: 0;
+    font-size: 24px;
+  }
 
-/*Bone Model Second Page Change*/
-#psg-hero-2 .psg-hero-container-2 .mat-comp-class h2{
-  color: #8AC53C;
-  padding: 4% 0px 0px 12%;
-  margin: 0;
-  font-size: 24px;
-}
+  /*Bone Model Second Page Change*/
+  #psg-hero-2 .psg-hero-container-2 .bone-mdl-class h3 {
+    color: #eee;
+    padding: 2% 0px 0px 11%;
+    margin: 0 auto 0 15px;
+    font-size: 14px;
+    width: 60%;
+    display: inline-block;
+  }
 
-/*Bone Model Second Page Change*/
-#psg-hero-2 .psg-hero-container-2 .bone-mdl-class h3 {
-  color: #eee;
-  padding: 2% 0px 0px 11%;
-  margin: 0 auto 0 15px;
-  font-size: 14px;
-  width: 60%;
-  display: inline-block;
-}
+  /*Bone Model Second Page Change*/
+  #psg-hero-2 .psg-hero-container-2 .auto-clav-class h3 {
+    color: #eee;
+    padding: 2% 0px 0px 11%;
+    margin: 0 auto 0 15px;
+    font-size: 14px;
+    width: 60%;
+    display: inline-block;
+  }
 
-/*Bone Model Second Page Change*/
-#psg-hero-2 .psg-hero-container-2 .auto-clav-class h3 {
-  color: #eee;
-  padding: 2% 0px 0px 11%;
-  margin: 0 auto 0 15px;
-  font-size: 14px;
-  width: 60%;
-  display: inline-block;
-}
+  /*Bone Model Second Page Change*/
+  #psg-hero-2 .psg-hero-container-2 .mat-comp-class h3 {
+    color: #eee;
+    padding: 2% 0px 0px 11%;
+    margin: 0 auto 0 15px;
+    font-size: 14px;
+    width: 60%;
+    display: inline-block;
+  }
 
-/*Bone Model Second Page Change*/
-#psg-hero-2 .psg-hero-container-2 .mat-comp-class h3 {
-  color: #eee;
-  padding: 2% 0px 0px 11%;
-  margin: 0 auto 0 15px;
-  font-size: 14px;
-  width: 60%;
-  display: inline-block;
-}
+  #psg-hero-2 .psg-hero-container-2 h3{
+    color: #eee;
+    padding: 19px 340px 39px 31px;
+    margin: 0 auto 0 15px;
+    font-size: 14px;
+    width: 60%;
+    display: inline-block;
+  }
 
-#psg-hero-2 .psg-hero-container-2 h3{
-  color: #eee;
-  padding: 19px 340px 39px 31px;
-  margin: 0 auto 0 15px;
-  font-size: 14px;
-  width: 60%;
-  display: inline-block;
+  #psg-hero-2 .psg-hero-container-2 .bone-h3 {
+    color: #eee;
+    padding: 19px 332px 39px 32px;
+    margin: 0 auto 0 15px;
+    font-size: 14px;
+    width: 60%;
+    display: inline-block;
+  }
 }
-
-#psg-hero-2 .psg-hero-container-2 .bone-h3 {
-  color: #eee;
-  padding: 19px 332px 39px 32px;
-  margin: 0 auto 0 15px;
-  font-size: 14px;
-  width: 60%;
-  display: inline-block;
-}
-}
-
