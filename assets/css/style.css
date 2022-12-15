@@ -5098,7 +5098,980 @@ and (max-width: 1023) {
 #Smartphone screen sizes
 --------------------------------------------------------------*/
 /*Smartphone*/
-@media screen and (min-width: 320px) and
+@media screen and (max-width: 366px) {
+
+  /*Home*/
+  .awards {
+    background: rgba(255, 255, 255, 0.1);
+    padding: 0px 0px 0px 0%;
+    text-align: center;
+  }
+
+  #psg-hero .psg-hero-container-subheading h1 {
+    color: #eee;
+    padding-top: 26%;
+    padding-left: 11.5%;
+    margin: 0;
+    font-size: 133%;
+    font-family: nulshock;
+    float: left;
+  }
+
+  #psg-hero h1:before {
+    content: "";
+    display: block;
+    width: 100%;
+    height: 3.5px;
+    background: radial-gradient(circle at center, #8AC53C, #9198e500);;
+    left: 0px;
+    top: 15%;
+    position: absolute;
+  }
+
+  #psg-hero .h1-bone-mdl:before{
+    content: "";
+    display: block;
+    width: 100%;
+    height: 3.5px;
+    background: radial-gradient(circle at center, #8AC53C, #9198e500);;
+    left: 0px;
+    top: 22%;
+    position: absolute;
+  }
+
+  #psg-hero .psg-hero-container h2{
+    color: #eee;
+    padding-top: 41%;
+    padding-left: 11.5%;
+    margin: 0;
+    font-size: 110%;
+  }
+  
+  #psg-hero .psg-hero-container h3{
+    color: #eee;
+    padding-top: 2%;
+    margin: 0 -10% 0 11.5%;
+    font-size: 70%;
+    line-height: 334%;
+    width: 82%;
+    display: block;
+  }
+
+  #psg-hero .img-psg {
+    float: left;
+    z-index: -10;
+    position: relative;
+    padding: 31% 0% 0% 0%;
+    width: 150%;
+    height: 100%;
+  }
+
+  /*2nd Page Hero*/
+  #psg-hero-2 .psg-hero-container-subheading h1 {
+    color: #eee;
+    padding-top: 7%;
+    padding-left: 11.5%;
+    margin: 0;
+    font-size: 133%;
+    font-family: nulshock;
+    width: auto;
+    height: auto;
+    float: left;
+  }
+
+  /*2nd page - Features and Benefits Subtitle*/
+  #psg-hero-2 .psg-hero-container-2 .feat-bene h2 {
+    color: #eee;
+    padding-top: 14%;
+    padding-left: 11.5%;
+    margin: 0;
+    font-size: 100%;
+  }
+
+  #psg-hero-2 .psg-hero-container-2 .bone-fix-class h2 {
+    color: #8AC53C;
+    padding: 4% 0% 0% 11.5%;
+    margin: 0;
+    font-size: 14px;
+    display: inline-block;
+  }
+
+  #psg-hero-2 .psg-hero-container-2 .bone-fix-class .bone-h2 {
+    color: #8AC53C;
+    padding: 4% 0% 0% 11.5%;
+    margin: 0;
+    font-size: 85%;
+    display: inline-block;
+  }
+
+  #psg-hero-2 .psg-hero-container-2 .bone-h3 {
+    color: #eee;
+    padding: 1% 0% 0% 12%;
+    margin: 0% 0% 0% 0%;
+    font-size: 71%;
+    width: 60%;
+    display: inline-block;
+  }
+
+  #psg-hero-2 .psg-hero-container-2 .small-fp-class .bone-h2 {
+    color: #8AC53C;
+    padding: 8% 0% 0% 11.5%;
+    margin: 0;
+    font-size: 81%;
+    display: inline-block;
+  }
+
+  #psg-hero-2 .psg-hero-container-2 .adj-class .bone-h2 {
+    color: #8AC53C;
+    padding: 8% 0% 0% 11.5%;
+    margin: 0;
+    font-size: 81%;
+    display: inline-block;
+  }
+
+  #psg-hero-2 .psg-hero-container-2 .small-fp-class .small-h2 {
+    color: #8AC53C;
+    padding: 4% 0% 0% 11.5%;
+    margin: 0;
+    font-size: 85%;
+  }
+
+  #psg-hero-2 .psg-hero-container-2 .small-fp-class .small-h3 {
+    color: #eee;
+    padding: 1% 0% 0% 12%;
+    margin: 0;
+    font-size: 71%;
+  }
+
+  #psg-hero-2 .psg-hero-container-2 .adj-class .adj-h2 {
+    color: #8AC53C;
+    padding: 4% 0% 0% 11.5%;
+    margin: 0;
+    font-size: 85%;
+  }
+
+  #psg-hero-2 .psg-hero-container-2 .adj-class .adj-h3 {
+    color: #eee;
+    padding: 4% 0% 0% 11.5%;
+    margin: 0;
+    font-size: 71%;
+  }
+
+  #psg-hero-2 .bone-fix-class .bone-fixation-cng {
+    float: left;
+    margin: 3% 0% 0% 12%;
+    width: 21%;
+    height: auto;
+  }
+
+  /*S2-AI Second Page Change*/
+  #psg-hero-2 .psg-hero-container-2 .small-fp-class .s2-ai-cont-h2 {
+    color: #8AC53C;
+    padding: 7% 0% 0% 12%;
+    margin: 0;
+    font-size: 14px;
+  }
+
+  /*S2-AI Second Page Change*/
+  #psg-hero-2 .psg-hero-container-2 .adj-class .s2-ai-cont-h2 {
+    color: #8AC53C;
+    padding: 7% 0px 0px 12%;
+    margin: 0;
+    font-size: 19px;
+  }
+
+  #psg-hero-2 .small-fp-class .small-footprint {
+    display: none;
+  }
+
+  #psg-hero-2 .psg-hero-container-2 .small-h3 {
+    color: #eee;
+    padding: 3.5% 0% 0% 2%;
+    margin: 0% 0% 0% 0%;
+    font-size: 13px;
+    width: 60%;
+    display: inline-block;
+  }
+    
+  #psg-hero-2 .adj-class .adjacent-segment {
+    display: none;
+  }
+
+  #psg-hero-2 .adj-class .adj-h3 {
+    color: #eee;
+    padding: 3.5% 0% 0% 2%;
+    margin: 0% 0% 0% 0%;
+    font-size: 13px;
+    width: 60%;
+    display: inline-block;
+  }
+
+  /*Related Products Text*/
+  #psg-hero-3 .psg-hero-container-subheading-3 .products-txt {
+    float: left;
+    margin: 0% 0% 0% -48%;
+    width: auto;
+    height: auto;
+    font-size: 130%;
+  }
+
+  #psg-hero-3 .re-products-class .firefly-tech-pro {
+    padding: 4% 0% 4% 32%;
+    width: 50%;
+    height: auto;
+    display: inline-block;
+  }
+
+  #psg-hero-3 .re-products-class .firefly-tech-h3 {
+    padding: 20% 16% 0% 1%;
+    font-size: 14px;
+    width: auto;
+    height: auto;
+    display: inline-block;
+  }
+
+  #psg-hero-3 .re-products-class .psg-pro {
+    padding: 4% 0% 0% 32%;
+    width: 50%;
+    height: auto;
+    display: inline-block;
+  }
+
+  #psg-hero-3 .re-products-class .psg-pro-h3 {
+    padding: 0% 0% 0% 1%;
+    font-size: 14px;
+    width: auto;
+    height: auto;
+    display: inline-block;
+  }
+
+  #psg-hero-3 .re-products-class .s2-ai-pro {
+    padding: 4% 0% 4% 32%;
+    width: 50%;
+    height: auto;
+    display: inline-block;
+  }
+
+  #psg-hero-3 .re-products-class .s2-ai-pro-h3 {
+    padding: 0% 0% 0% 1%;
+    font-size: 14px;
+    width: auto;
+    height: auto;
+    display: inline-block;
+  }
+
+  /*Downloads Text*/
+  #psg-hero-3 .psg-hero-container-subheading-3 .downloads-txt {
+    float: left;
+    margin: -4% 0% 0% -48%;
+    width: auto;
+    height: auto;
+    font-size: 130%;
+  }
+
+  #psg-hero-3 .downloads-class .system-brochure {
+    padding: 4% 0% 4% 32%;
+    width: 50%;
+    height: auto;
+    display: inline-block;
+  }
+  
+  #psg-hero-3 .downloads-class .system-brochure-h3 {
+    padding: 13% 0% 0% 1%;
+    font-size: 14px;
+    width: auto;
+    height: auto;
+    display: inline-block;
+  }
+  
+  #psg-hero-3 .downloads-class .product-brochure {
+    padding: 4% 0% 4% 32%;
+    margin: 0 0 0 0%;
+    width: 50%;
+    height: auto;
+    display: inline-block;
+  }
+  
+  #psg-hero-3 .downloads-class .product-brochure-h3 {
+    padding: 0% 0% 0% 1%;
+    font-size: 14px;
+    width: auto;
+    height: auto;
+    display: inline-block;
+  }
+  
+  #psg-hero-3 .downloads-class .ct-scan-protocal {
+    padding: 4% 0% 4% 32%;
+    margin: 0 0 0 0%;
+    width: 50%;
+    height: auto;
+    display: inline-block;
+  }
+  
+  #psg-hero-3 .downloads-class .ct-scan-protocal-h3 {
+    padding: 0% 0% 0% 1%;
+    font-size: 14px;
+    width: auto;
+    height: auto;
+    display: inline-block;
+  }
+
+  #psg-hero .img-mng {
+    float: left;
+    z-index: -10;
+    position: relative;
+    padding: 41% 0% 0% 0%;
+    width: 150%;
+    height: 100%;
+  }
+
+  #psg-hero-2 .psg-hero-container-2 .s2-ai-cont-h4{
+    color: rgba(23, 29, 34, 0.7);
+    float: left;
+    margin: 3% 0 0 12%;
+    width: 80%;
+    height: 100%;
+    font-size: 11px;
+  }
+
+  #psg-hero-2 .psg-hero-container-2 h4{
+    color: rgba(23, 29, 34, 0.7);
+    float: left;
+    margin: 3% 0 0 12%;
+    width: 71%;
+    height: 100%;
+    font-size: 35%;
+  }
+
+  #psg-hero .psg-hero-container .cng-firefly-subtitle{
+    color: #eee;
+    padding-top: 23%;
+    padding-left: 11.5%;
+    margin: 0;
+    font-size: 22px;
+  }
+
+  #psg-hero .img-cng {
+    float: left;
+    z-index: -10;
+    position: relative;
+    padding: 64% 0% 0% 0%;
+    width: 136%;
+    height: 100%;
+  }
+
+  #psg-hero .img-s2ai {
+    float: left;
+    z-index: -10;
+    position: relative;
+    padding: 65% 0% 0% 30%;
+    width: 145%;
+    height: 100%;
+  }
+
+  #psg-hero-6 .psg-hero-container-1:after {
+    content: "";
+    display: block;
+    width: 100%;
+    height: 3.5px;
+    background: radial-gradient(circle at center, #8AC53C, #9198e500);;
+    left: 0px;
+    top: 82%;
+    position: absolute;
+  }
+
+  #psg-hero .psg-hero-container-subheading:before {
+    content: "";
+    display: block;
+    width: 100%;
+    height: 3.5px;
+    background: radial-gradient(circle at center, #8AC53C, #9198e500);;
+    left: 0px;
+    top: 11%;
+    position: absolute;
+  } 
+
+  /*S2-AI Second Page Change*/
+  #psg-hero-2 .psg-hero-container-2 .bone-fix-class .s2-ai-cont-h2{
+    color: #8AC53C;
+    padding: 7% 0% 0% 11.5%;
+    margin: 0;
+    font-size: 81%;
+    display: inline-block;
+  }
+
+  #psg-hero-2 .psg-hero-container-2 .bone-fix-class .s2-ai-cont-h3 {
+    color: #eee;
+    padding: 4% 0% 3% 11.5%;
+    margin: 0 auto 0 0;
+    font-size: 71%;
+    width: 90%;
+    display: inline-block;
+  }
+
+  /*S2-AI Second Page Change*/
+  #psg-hero-2 .psg-hero-container-2 .small-fp-class .s2-ai-cont-h2 {
+    color: #8AC53C;
+    padding: 3% 0% 0% 11.5%;
+    margin: 0;
+    font-size: 81%;
+  }
+
+  #psg-hero-2 .psg-hero-container-2 .small-fp-class .s2-ai-cont-h3 {
+    color: #eee;
+    padding: 3% 0% 3% 11.5%;
+    margin: 0 auto 0 0;
+    font-size: 71%;
+    width: 90%;
+    display: inline-block;
+  }
+
+  /*S2-AI Second Page Change*/
+  #psg-hero-2 .psg-hero-container-2 .adj-class .s2-ai-cont-h2 {
+    color: #8AC53C;
+    padding: 3% 0% 0% 11.5%;
+    margin: 0;
+    font-size: 81%;
+  }
+
+  #psg-hero-2 .psg-hero-container-2 .adj-class .s2-ai-cont-h3 {
+    color: #eee;
+    padding: 3% 0% 3% 11.5%;
+    margin: 0 auto 0 0;
+    font-size: 71%;
+    width: 90%;
+    display: inline-block;
+  }
+
+  #psg-hero-2 .bone-fix-class .bone-fixation {
+    float: left;
+    margin: 1% 0% 0% 12%;
+    width: 21%;
+    height: auto;
+  }
+
+  #psg-hero-2 .bone-fix-class .bone-fixation-tech {
+    float: left;
+    margin: 1% 0% 0% 12%;
+    width: 21%;
+    height: auto;
+  }
+
+  /*Bone Model Second Page Change*/
+  #psg-hero-2 .psg-hero-container-2 .bone-mdl-class h2{
+    color: #8AC53C;
+    padding: 3% 0px 0px 11.5%;
+    margin: 0;
+    font-size: 100%;
+  }
+
+  /*Bone Model Second Page Change*/
+  #psg-hero-2 .psg-hero-container-2 .auto-clav-class h2{
+    color: #8AC53C;
+    padding: 3% 0px 0px 11.5%;
+    margin: 0;
+    font-size: 100%;
+  }
+
+  /*Bone Model Second Page Change*/
+  #psg-hero-2 .psg-hero-container-2 .mat-comp-class h2{
+    color: #8AC53C;
+    padding: 8% 0px 0px 11.5%;
+    margin: 0;
+    font-size: 100%;
+  }
+
+  /*Bone Model Second Page Change*/
+  #psg-hero-2 .psg-hero-container-2 .bone-mdl-class h3 {
+    color: #eee;
+    padding: 2% 0px 0px 11.5%;
+    margin: 0 auto 0 0%;
+    font-size: 86%;
+    width: 94%;
+    display: inline-block;
+  }
+
+  /*Bone Model Second Page Change*/
+  #psg-hero-2 .psg-hero-container-2 .auto-clav-class h3 {
+    color: #eee;
+    padding: 1% 0px 0px 11.5%;
+    margin: 0 auto 0 0%;
+    font-size: 86%;
+    width: 94%;
+    display: inline-block;
+  }
+
+  /*Bone Model Second Page Change*/
+  #psg-hero-2 .psg-hero-container-2 .mat-comp-class h3 {
+    color: #eee;
+    padding: 1% 0px 0px 11.5%;
+    margin: 0 auto 0 0%;
+    font-size: 86%;
+    width: 94%;
+    display: inline-block;
+  }
+
+  /*Features and Benefits Subtitle*/
+  #psg-hero-2 .psg-hero-container-2-tech .feat-bene h2{
+    color: #eee;
+    padding: 14.5% 0 0 11.5%;
+    margin: 0;
+    font-size: 130%;
+  }
+
+  /* @media screen and (min-width: 376px) {
+    #psg-hero-2 .psg-hero-container-2-tech h2 {
+      color: #8AC53C;
+      padding: 2% 0 0 12%;
+      margin: 0;
+      font-size: 113%;
+      height: auto;
+      width: auto;
+    }
+  } */
+
+  #psg-hero-2 .psg-hero-container-2-tech h2{
+    color: #8AC53C;
+    padding: 3% 0 0 12%;
+    margin: 0;
+    font-size: 110%;
+  }
+
+  #psg-hero-2 .psg-hero-container-2-tech h3{
+    color: #eee;
+    padding: 2% 0% 4% 3%;
+    margin: 0 auto 0 9.5%;
+    font-size: 91%;
+    width: 88%;
+    display: inline-block;
+  }
+
+  #psg-hero .img-tech-page {
+    float: left;
+    z-index: -10;
+    position: relative;
+    top: -29px;
+    right: 16%;
+    width: 142%;
+    height: 1%
+  }
+  
+  #psg-hero-2 .psg-hero-container-2-tech .bone-section4-h2 {
+    color: #8AC53C;
+    padding: 3% 0% 1% 9.5%;
+    margin: 0 auto 0 1.5%;
+    font-size: 100%;
+    width: 87%;
+    display: inline-block;
+  }
+
+  #psg-hero-2 .psg-hero-container-2-tech .bone-section4-h3 {
+    color: #eee;
+    padding: 0% 0 0% 11.5%;
+    margin: 0;
+    font-size: 73%;
+  }
+
+  #psg-hero-2 .psg-hero-container-2-tech h4{
+    color: rgba(23, 29, 34, 0.7);
+    float: left;
+    margin: 1% 0 0 11.5%;
+    width: 61%;
+    height: 100%;
+    font-size: 35%;
+  }
+
+  /*Work Order Fulfillment Subtitle*/
+  #psg-hero-5 .psg-hero-container-5 .feat-bene h2{
+    color:#8AC53C;
+    padding: 14% 0px 0px 11.5%;
+    margin: 0;
+    font-size: 130%;
+  }
+
+  #psg-hero-5 .psg-hero-container-subheading h1 {
+    color: #eee;
+    padding-top: 24px;
+    padding-left: 11.5%;
+    margin: 0;
+    font-size: 133%;
+    font-family: nulshock;
+    float: left;
+  }
+
+  #psg-hero-2 .psg-hero-container-2 .bone-fix-class .reliable-h2 {
+    color: #8AC53C;
+    padding: 3% 0px 0px 11.5%;
+    margin: 0;
+    font-size: 81%;
+  }
+
+  #psg-hero-2 .psg-hero-container-2 .bone-fix-class .reliable-h3 {
+    color: #eee;
+    padding: 1% 8% 4% 12%;
+    margin: 0 auto 0 0;
+    font-size: 71%;
+    width: 90%;
+    display: inline-block;
+  }
+
+  #psg-hero-2 .psg-hero-container-2 .small-fp-class .safe-h2 {
+    color: #8AC53C;
+    padding: 3% 0px 0px 11.5%;
+    margin: 0;
+    font-size: 81%;
+  }
+
+  #psg-hero-2 .psg-hero-container-2 .small-fp-class .safe-h3 {
+    color: #eee;
+    padding: 1% 8% 4% 12%;
+    margin: 0 auto 0 0;
+    font-size: 71%;
+    width: 90%;
+    display: inline-block;
+  }
+
+  #psg-hero-2 .psg-hero-container-2 .adj-class .enhanced-h2 {
+    color: #8AC53C;
+    padding: 3% 0px 0px 11.5%;
+    margin: 0;
+    font-size: 81%;
+  }
+
+  #psg-hero-2 .psg-hero-container-2 .enhanced-h3 {
+    color: #eee;
+    padding: 1% 8% 4% 12%;
+    margin: 0 auto 0 0;
+    font-size: 71%;
+    width: 90%;
+    display: inline-block;
+  }
+  
+  #psg-hero-2 .bone-fix-class .bone-fixation-psg {
+    display: none;
+  }
+  
+  #psg-hero-2 .bone-fix-class .bone-fixation-mng {
+    display: none;
+  }
+  
+  #psg-hero-2 .bone-fix-class .bone-fixation-cng {
+    display: none;
+  }
+  
+  #psg-hero-2 .bone-fix-class .bone-fixation-s2-ai {
+    display: none;
+  }
+  
+  #psg-hero-2 .bone-fix-class .bone-fixation-tech {
+    display: none;
+  }
+
+  #psg-hero-3 {
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+    padding: 0;
+  }
+
+  #psg-hero-5 .images-for-webs .image-turnstile-tech-5 {
+    display: none;
+  }
+
+  #psg-hero-2 .image-turnstile-psg {
+    display: none;
+  }
+
+  #psg-hero-8 {
+    display: block;
+  }
+
+  /* #psg-hero-6 h1:before {
+    content: "";
+    display: block;
+    width: 100%;
+    height: 5px;
+    background: radial-gradient(circle at center, #8AC53C, #9198e500);;
+    left: 0px;
+    top: -0.9%;
+    position: absolute;
+  } */
+  
+  #psg-hero-5 .image-turnstile-tech-6 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -2%;
+    width: 47.5%;
+  }
+  
+  #psg-hero-8 .image-turnstile-tech-7 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 47.5%;
+  }
+
+  #psg-hero-6 .psg-hero-container h1 {
+    color: #eee;
+    padding-top: 28.5%;
+    padding-left: 14%;
+    display: block;
+    width: 100%;
+    height: 5px;
+    left: 0px;
+    font-family: nulshock;
+    font-size: 32px;
+    position: absolute;
+  }
+
+  /* Pre-Op Process
+  #psg-hero-5 .psg-hero-container-5 .pre-op-h2 {
+    color: #8AC53C;
+    font-size: 24px;
+    display: block;
+    margin-top: 4%;
+    margin-left: 29%;
+    margin-right: auto;
+  }
+
+  #psg-hero-5 .psg-hero-container-5 .pre-op-h3 {
+    color: #eee;
+    display: block;
+    margin-top: 1%;
+    margin-left: 8.5%;
+    margin-right: auto;
+    font-size: 19px;
+  }
+
+  #psg-hero-5 .image-turnstile-tech-5 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 22%;
+  }
+
+  /*Pre-Surgical Process*/
+  /* #psg-hero-5 .psg-hero-container-5 .pre-surg-h2 {
+    color: #8AC53C;
+    font-size: 24px;
+    display: block;
+    margin-top: 4%;
+    margin-left: 29%;
+    margin-right: auto;
+  }
+
+  #psg-hero-5 .psg-hero-container-5 .pre-surg-h3 {
+    color: #eee;
+    display: block;
+    margin-top: 1%;
+    margin-left: -38%;
+    margin-right: -5%;
+    font-size: 19px;
+  }
+
+  #psg-hero-5 .image-turnstile-tech-6 {
+    display: block;
+    margin-top: 2%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 37%;
+  }
+
+  MJF Process
+  #psg-hero-5 .psg-hero-container-5 .mjf-man-h2 {
+    color: #8AC53C;
+    font-size: 24px;
+    display: block;
+    margin-top: 4%;
+    margin-left: 31%;
+    margin-right: auto;
+  }
+
+  #psg-hero-5 .psg-hero-container-5 .mjf-man-h3 {
+    color: #eee;
+    display: block;
+    margin-top: 1%;
+    margin-left: -38%;
+    margin-right: -5%;
+    font-size: 19px;
+  }
+
+  #psg-hero-5 .image-turnstile-tech-7 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 22%;
+  }
+
+  /* Firefly Nav. Process
+  #psg-hero-5 .psg-hero-container-5 .fre-nav-h2 {
+    color: #8AC53C;
+    margin: -67px 0px 0px 1199px;
+    font-size: 14px;
+    width: 60%;
+  }
+
+  #psg-hero-5 .psg-hero-container-5 .fre-nav-h3 {
+    color: #eee;
+    padding: 0px 0px 0px 1199px;
+    margin: 0;
+    font-size: 14px;
+  }
+    
+  #psg-hero-5 .image-turnstile-tech-8 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 22%;
+  } */
+
+  #psg-hero-6 .psg-hero-container .fire h2 {
+    color: #eee;
+    position: absolute;
+    margin: -31% 0px 0px -46px;
+    padding: 258px 0px 0px 97px;
+    font-size: 24px;
+    width: 102%;
+  }
+  
+  #psg-hero-6 .psg-hero-container .psg h2 {
+    color: #eee;
+    margin: 47px 0px 0px -109px;
+    position: absolute;
+    font-size: 24px;
+    width: 129%;
+  }
+  
+  #psg-hero-6 .psg-hero-container .mng h2 {
+    color: #eee;
+    margin: 157px 0px 0px -116px;
+    position: absolute;
+    font-size: 24px;
+    width: 129%;
+  }
+  
+  #psg-hero-6 .psg-hero-container .cng h2 {
+    color: #eee;
+    margin: 256px 0px 0px -116px;
+    position: absolute;
+    font-size: 24px;
+    width: 132%;
+  }
+
+  .vl {
+    font-size: 20px;
+    text-transform: uppercase;
+    color: #8AC53C;
+  }
+
+  .vl-1 {
+    font-size: 20px;
+    text-transform: uppercase;
+    color: #8AC53C;
+  }
+
+  .vl-2 {
+    font-size: 18px;
+    text-transform: uppercase;
+    color: #8AC53C;
+  }
+
+  .vl-3 {
+    font-size: 18px;
+   text-transform: uppercase;
+   color: #8AC53C;
+ }
+
+ /*Vertical Line*/
+ .vl-4 {
+    content: "";
+    display: block;
+    left: 50%;
+    height: 10000px;
+    background: radial-gradient(circle at center, #8AC53C, #9198e500);;
+    margin-left: -301px;
+    margin-top: 244px;
+    position: absolute;
+ }
+
+  #hero .hero-container-contact {
+    position: absolute;
+    display: block;
+    bottom: 0;
+    top: 13%;
+    left: 0;
+    right: 0;
+    text-align: center;
+  }
+
+  #header .logo {
+    width: 90%;
+    height: 90%;
+  }
+
+  #hero .btn-get-started {
+    font-family: "Open Sans", sans-serif;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 11px;
+    display: inline-block;
+    padding: 10px 15px 15px 15px;
+    border-radius: 4px;
+    transition: 0.5s;
+    /*Color for font in "Get to know us button"*/
+    color: rgb(0, 0, 0);
+    background: #8ac53c;
+    border: 2px solid #8ac53c;
+  }
+
+  #hero .btn-watch-video {
+    font-size: 13px;
+    display: inline-block;
+    transition: 0.5s;
+    margin-left: 25px;
+    color: #fff;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  #psg-hero .img-bone-mdl {
+    float: left;
+    z-index: -10;
+    position: relative;
+    right: 95%;
+    width: 435%;
+  }
+
+  
+  .fre-pam {
+    padding: 0 0 0 4%;
+    font-size: 17px;
+  }
+
+  .psg-pam {
+    padding: 0 0 0 4%;
+    font-size: 17px;
+  }
+
+  .mng-pam {
+    padding: 0 0 0 4%;
+    font-size: 17px;
+  }
+
+  .cng-pam {
+    padding: 0 0 0 4%;
+    font-size: 17px;
+  }
+
+}
+
+/*--------------------------------------------------------------
+#Smartphone screen sizes
+--------------------------------------------------------------*/
+/*Smartphone*/
+@media screen and (min-width: 367px) and
 (max-width: 426px) {
 
   /*Home*/
@@ -5324,7 +6297,7 @@ and (max-width: 1023) {
   }
 
   #psg-hero-3 .re-products-class .firefly-tech-h3 {
-    padding: 26% 16% 0% 1%;
+    padding: 20% 16% 0% 1%;
     font-size: 14px;
     width: auto;
     height: auto;
@@ -5378,7 +6351,7 @@ and (max-width: 1023) {
   }
   
   #psg-hero-3 .downloads-class .system-brochure-h3 {
-    padding: 20% 0% 0% 1%;
+    padding: 13% 0% 0% 1%;
     font-size: 14px;
     width: auto;
     height: auto;
@@ -5780,15 +6753,15 @@ and (max-width: 1023) {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 2%;
-    width: 52.5%;
+    margin-top: -2%;
+    width: 47.5%;
   }
   
   #psg-hero-8 .image-turnstile-tech-7 {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 52.5%;
+    width: 47.5%;
   }
 
   #psg-hero-6 .psg-hero-container h1 {
@@ -6468,3 +7441,4 @@ and (max-width: 2560px) {
   display: inline-block;
 }
 }
+
