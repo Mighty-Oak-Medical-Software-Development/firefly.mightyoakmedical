@@ -6167,9 +6167,9 @@ and (max-width: 2560px) {
 
   #psg-hero-2 .bone-fix-class .bone-fixation-tech {
     float: left;
-    margin: -2% 0px 0px 12%;
-    width: 11%;
-    height: 100%;
+    margin: -2% 0px 0px 13%;
+    width: auto;
+    height: auto;
   }
   
   #psg-hero-2 .adj-class .adjacent-segment {
@@ -6190,7 +6190,7 @@ and (max-width: 2560px) {
 
   #psg-hero-2 .psg-hero-container-2-tech h2{
     color: #8AC53C;
-    padding: 5% 0px 0px 24.5%;
+    padding: 5% 0px 0px 23%;
     margin: 0;
     font-size: 24px;
   }
@@ -6311,7 +6311,7 @@ and (max-width: 2560px) {
 
   #psg-hero-2 .image-turnstile-mng {
     float: left;
-    margin: -41% 0px 0px 64%;
+    margin: -37% 0px 0px 64%;
     width: 40%;
     height: 100%;
   }
