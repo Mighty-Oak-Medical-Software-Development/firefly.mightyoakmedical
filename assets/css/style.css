@@ -5151,7 +5151,7 @@ and (max-width: 1023) {
     color: #eee;
     padding-top: 2%;
     margin: 0 -10% 0 11.5%;
-    font-size: 87%;
+    font-size: 76%;
     line-height: 232%;
     width: 82%;
     display: block;
@@ -5422,7 +5422,7 @@ and (max-width: 1023) {
     float: left;
     z-index: -10;
     position: relative;
-    padding: 52% 0% 0% 0%;
+    padding: 61% 0% 0% 0%;
     width: 150%;
     height: 100%;
   }
@@ -5457,8 +5457,8 @@ and (max-width: 1023) {
     float: left;
     z-index: -10;
     position: relative;
-    padding: 64% 0% 0% 0%;
-    width: 136%;
+    padding: 74% 0% 0% 0%;
+    width: 151%;
     height: 100%;
   }
 
@@ -5466,8 +5466,8 @@ and (max-width: 1023) {
     float: left;
     z-index: -10;
     position: relative;
-    padding: 65% 0% 0% 30%;
-    width: 145%;
+    padding: 87% 0% 0% 0%;
+    width: 152%;
     height: 100%;
   }
 
